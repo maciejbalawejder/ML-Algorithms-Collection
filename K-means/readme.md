@@ -9,4 +9,4 @@ K-means algoritm is unsupervised machine learning algoritm used to claster the d
 
 ### Results
 ------
-![gif]https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/K-means/mygif.gif
+![gif](https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/K-means/mygif.gif)
