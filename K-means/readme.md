@@ -5,7 +5,9 @@ K-means algoritm is unsupervised machine learning algoritm used to claster the d
 1) Pick centroid of every cluster by randomly sampling points from the dataset(X)
 
 '''
+
 centroids = self.X[np.random.randint(0,self.X.shape[0],self.k)]
+
 '''
 
 2) Calculate the euclidean distance between centroid and points(X) \sqrt{(centroidX - pointsX)^2+(centroidY - pointsY)^2}
