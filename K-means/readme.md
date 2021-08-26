@@ -3,9 +3,9 @@
 ### Background 
 K-means algoritm is unsupervised machine learning algoritm used to claster the data. The number of clusters is predefined with constant k. Steps in algoritm: 
 1) Pick centroid of every cluster by randomly sampling points from the dataset(X)
-        '''
-        centroids = self.X[np.random.randint(0,self.X.shape[0],self.k)]
-        '''
+'''
+centroids = self.X[np.random.randint(0,self.X.shape[0],self.k)]
+'''
 2) Calculate the euclidean distance between centroid and points(X) \sqrt{(centroidX - pointsX)^2+(centroidY - pointsY)^2}
    '''
    distances = np.array([np.power(np.sum((self.X - old_centroids[i])**2,axis = 1),.5) for i in range(self.k)])
