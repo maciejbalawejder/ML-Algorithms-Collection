@@ -1,4 +1,4 @@
-![MEME](https://github.com/maciejbalawejder/Logistic_Regression/blob/main/i-know-logistic-regression-show-me.jpg)
+![MEME](https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/Logistic%20Regression/i-know-logistic-regression-show-me.jpg)
 # Logistic Regression
 
 Model of Logistic Regression bulit from scratch in educational purpose which tries to be small and clean. It is not complicated model, containing only 115 lines of code, and explaining in depth operation which are going "behind the scenes" when you use libraries like sklearn. Two init arguments are taken, iterations and learning rate. The rest of the code is explained in depth below. 
