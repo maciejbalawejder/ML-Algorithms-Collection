@@ -7,7 +7,7 @@ Model of Logistic Regression bulit from scratch in educational purpose which tri
 ### Main functions : 
 
    #### 1) Sigmoid - 1/(1+e^(-input•weights)) - the function is squashing values and keep them between(0,1), it never reaches 0 or 1, which solves issue in Cross-Entropy ln(0) 
-![Sigmoid](https://github.com/maciejbalawejder/Logistic_Regression/blob/main/sigmoid.png)
+![Sigmoid](https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/Logistic%20Regression/sigmoid.png)
 
 
 #### 2) Split - takes two arguments dataset and seprator
@@ -42,7 +42,7 @@ The bigger error between predicted output and ground truth the more it affects t
 ### Analyzing tools
 
 #### Confusion matrix - table allowing to __see__ the performance of the model and also calculate parameters such as: 
-![Confusion matrix](https://github.com/maciejbalawejder/Logistic_Regression/blob/main/confusion-matrix.png)
+![Confusion matrix](https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/Logistic%20Regression/confusion-matrix.png)
 ##### Precision - out of all the positive classes we have predicted correctly, how many are actually positive
 ##### Recall - out of all the positive classes, how much we predicted correctly
 ##### F1-score - in the model when there is no sepecific goal about precision or recall, it is easier to use combination of both
