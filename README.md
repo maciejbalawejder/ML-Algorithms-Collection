@@ -7,3 +7,4 @@ In this project you will find basic implementations of Machine Learning algoritm
 - [ ] __SVM__
 - [ ] __XGBoost__
 - [ ] __Random forest__
+- [ ] __Naive Bayes__
