@@ -1,5 +1,4 @@
 # MNIST Classifier from scratch using Numpy library 
----------
 
 3-layer Image Classifier bulid from scratch and trained on MNIST Dataset with 90% accuracy on unseen test dataset. 
 
