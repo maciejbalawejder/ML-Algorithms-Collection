@@ -3,7 +3,7 @@
 
 3-layer Image Classifier bulid from scratch and trained on MNIST Dataset with 90% accuracy on unseen test dataset. 
 
-Check out the article with in depth explanation: [Neural Network(MNIST Classifier) from scratch using Numpy library](https://medium.com/analytics-vidhya/q-learning-is-the-most-basic-form-of-reinforcement-learning-which-doesnt-take-advantage-of-any-8944e02570c5)
+Check out the article with in depth explanation: [Neural Network(MNIST Classifier) from scratch using Numpy library](https://medium.com/analytics-vidhya/neural-network-mnist-classifier-from-scratch-using-numpy-library-94bbcfed7eae)
 
 ## Requirements:
 - Python 3.+
