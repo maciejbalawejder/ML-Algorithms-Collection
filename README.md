@@ -5,7 +5,7 @@ In this project you will find basic implementations of Machine Learning algoritm
 - [x] [__Neural Network__](https://github.com/maciejbalawejder/MLalgorithms-collection/tree/main/Neural%20Network) - MNIST dataset
 - [x] [__Loss functions__](https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/Loss%20functions/loss_functions.ipynb)
 - [x] [__Weight Initialization__](https://github.com/maciejbalawejder/MLalgorithms-collection/blob/main/weight%20initialization/weight_init.ipynb)
-- [ ] [__Normalization__](https://github.com/maciejbalawejder/MLalgorithms-collection/tree/main/Normalization)
+- [x] [__Normalization__](https://github.com/maciejbalawejder/MLalgorithms-collection/tree/main/Normalization)
 - [ ] __SVM__
 - [ ] __XGBoost__
 - [ ] __Random forest__
